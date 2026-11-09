@@ -1,0 +1,10 @@
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\bin\Debug\P1.T2 Expresiones Regulares 170011.exe.config
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\bin\Debug\P1.T2 Expresiones Regulares 170011.exe
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\bin\Debug\P1.T2 Expresiones Regulares 170011.pdb
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2 Expresiones Regulares 170011.csproj.AssemblyReference.cache
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2_Expresiones_Regulares_170011.Form1.resources
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2_Expresiones_Regulares_170011.Properties.Resources.resources
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2 Expresiones Regulares 170011.csproj.GenerateResource.cache
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2 Expresiones Regulares 170011.csproj.CoreCompileInputs.cache
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2 Expresiones Regulares 170011.exe
+C:\Users\sa\Desktop\Uni LT\1 Compiladores\Parcial 1\P1.T2\P1.T2 Expresiones Regulares 170011\P1.T2 Expresiones Regulares 170011\obj\Debug\P1.T2 Expresiones Regulares 170011.pdb
